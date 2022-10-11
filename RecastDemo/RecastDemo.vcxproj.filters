@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Contrib\fastlz\fastlz.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\ChunkyTriMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\ConvexVolumeTool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\CrowdTool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\Filelist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\InputGeom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\MeshLoaderObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\NavMeshPruneTool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\NavMeshTesterTool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\OffMeshConnectionTool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\PerfTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\Sample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\SampleInterfaces.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\Sample_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\Sample_SoloMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\Sample_TempObstacles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\Sample_TileMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\TestCase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\ValueHistory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\imguiRenderGL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\Source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\Programming\Navi\recastnavigationtest\RecastDemo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5396EB10-EA9E-38A3-86B2-6D705663F26C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPkgConfig.cmake
+G:/Programming/Navi/recastnavigationtest/RecastDemo/CMakeLists.txt
+G:/Programming/Navi/recastnavigationtest/RecastDemo/cmake/FindSDL2.cmake
